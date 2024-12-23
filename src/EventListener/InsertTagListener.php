@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * This file is part of Contao Jalali Date Bundle.
+ * This file is part of Contao Iranian Date Bundle.
  *
  * (c) Hamid Peywasti 2024 <hamid@respinar.com>
  *
