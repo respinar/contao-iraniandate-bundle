@@ -1,7 +1,7 @@
 {
     "name": "respinar/contao-iraniandate-bundle",
     "description": "Iranian Date for Contao",
-    "keywords": ["contao", "bundle", "shamsi", "khorshidi", "solar hijri", "persian", "iranian","date"],
+    "keywords": ["contao", "bundle", "shamsi", "khorshidi", "solar hijri", "jalali", "persian", "iranian","date"],
     "type": "contao-bundle",
     "license": "MIT",
     "authors": [
@@ -13,8 +13,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/respinar/contao-jalalidate/issues",
-        "source": "https://github.com/respinar/contao-jalalidate"
+        "issues": "https://github.com/respinar/contao-iraniandate-bundle/issues",
+        "source": "https://github.com/respinar/contao-iraniandate-bundle"
     },
     "require": {
         "php": "^8.0",
