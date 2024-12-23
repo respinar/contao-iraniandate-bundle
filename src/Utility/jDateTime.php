@@ -48,7 +48,7 @@ declare(strict_types=1);
 /**
  * Namespace
  */
-namespace Respinar\ContaoIranianDateBundle\Helper;
+namespace Respinar\ContaoIranianDateBundle\Utility;
 
 use \Datetime;
 use \DateTimeZone;
