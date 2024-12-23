@@ -1,6 +1,6 @@
 # Iranian Date Bundle for Contao Open Source CMS
 
-[![Latest Stable Version](https://poser.pugx.org/respinar/contao-jalalidate/v/stable.svg)](https://packagist.org/packages/respinar/contao-jalalidate) [![Total Downloads](https://poser.pugx.org/respinar/contao-jalalidate/downloads.svg)](https://packagist.org/packages/respinar/contao-jalalidate) [![Latest Unstable Version](https://poser.pugx.org/respinar/contao-jalalidate/v/unstable.svg)](https://packagist.org/packages/respinar/contao-jalalidate) [![License](https://poser.pugx.org/respinar/contao-jalalidate/license.svg)](https://packagist.org/packages/respinar/contao-jalalidate)
+[![Latest Stable Version](https://poser.pugx.org/respinar/contao-iraniandatebundle/v/stable.svg)](https://packagist.org/packages/respinar/contao-iraniandatebundle) [![Total Downloads](https://poser.pugx.org/respinar/contao-iraniandatebundle/downloads.svg)](https://packagist.org/packages/respinar/contao-iraniandatebundle) [![Latest Unstable Version](https://poser.pugx.org/respinar/contao-iraniandatebundle/v/unstable.svg)](https://packagist.org/packages/respinar/contao-iraniandatebundle) [![License](https://poser.pugx.org/respinar/contao-iraniandatebundle/license.svg)](https://packagist.org/packages/respinar/contao-iraniandatebundle)
 
 This is the Iranian Date bundle for Contao. After installing with Composer, the Use Iranian Date setting in the root page configuration allows you to toggle the Solar Hijri date format. If enabled, all dates will be displayed in the Solar Hijri (Iranian) format site-wide, regardless of the language. If the setting is disabled or for other languages, the Georgian (Gregorian) date will be displayed.
 
@@ -12,7 +12,7 @@ This is the Iranian Date bundle for Contao. After installing with Composer, the 
 
 ## New Feature: `{{iranian_date}}` Insert Tag
 
-We've introduced a new insert tag: `{{iranian_date}}`. This tag allows you to display the current Iranian (Jalali) date in your Contao templates, and it offers flexibility in terms of date formatting.
+We've introduced a new insert tag: `{{iranian_date}}`. This tag allows you to display the current Iranian date in your Contao templates, and it offers flexibility in terms of date formatting.
 
 ### How It Works
 
@@ -51,10 +51,10 @@ The `{{iranian_date}}` insert tag works similarly to Contao's built-in `{{date}}
 
 ### Installation
 
-To install the **Contao Jalali Date Bundle**, run the following Composer command:
+To install the **Contao Iranian Date Bundle**, run the following Composer command:
 
 ```bash
-composer require respinar/contao-jalalidate
+composer require respinar/contao-iraniandatebundle
 ```
 
 ### Configuration
