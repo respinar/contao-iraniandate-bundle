@@ -15,7 +15,7 @@ namespace Respinar\ContaoIranianDateBundle\EventListener;
 use Contao\System;
 use Contao\PageModel;
 use Contao\CoreBundle\DependencyInjection\Attribute\AsHook;
-use Respinar\ContaoIranianDateBundle\Helper\jDateTime;
+use Respinar\ContaoIranianDateBundle\Utility\jDateTime;
 
 #[AsHook('parseDate')]
 class ParseDateListener
