@@ -13,7 +13,7 @@ declare(strict_types=1);
 namespace Respinar\ContaoIranianDateBundle\EventListener;
 
 use Contao\CoreBundle\DependencyInjection\Attribute\AsHook;
-use Respinar\ContaoIranianDateBundle\Helper\jDateTime;
+use Respinar\ContaoIranianDateBundle\Utility\jDateTime;
 
 #[AsHook('replaceInsertTags')]
 class InsertTagListener
